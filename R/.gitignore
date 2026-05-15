@@ -1,4 +1,14 @@
-/.Rproj.user
+# RStudio project/user files
+.Rproj.user/
+.Rhistory
 .RData
-.RHistory
-R.Rproj
+.Ruserdata
+
+# R session/output files
+*.RData
+*.Rhistory
+*.Rproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
