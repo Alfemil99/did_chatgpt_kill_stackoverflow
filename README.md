@@ -34,7 +34,7 @@ The goal is not to prove direct causality, but to examine whether multiple publi
 Public monthly question volume declined sharply after the public release of ChatGPT.
 
 <p align="center">
-  <img src="graphic/monthly_questions.png" width="100%">
+  <img src="graphic/figure_01_questions_per_month.png" width="100%">
 </p>
 
 ---
@@ -44,7 +44,7 @@ Public monthly question volume declined sharply after the public release of Chat
 Python, JavaScript, HTML, CSS, and Java beginner-tag activity all show strong simultaneous declines after late 2022.
 
 <p align="center">
-  <img src="graphic/beginner_tags.png" width="100%">
+  <img src="graphic/figure_03_beginner_tags.png" width="100%">
 </p>
 
 ---
@@ -77,10 +77,10 @@ did-chatgpt-kill-stackoverflow/
 │       └── figure_05_google_trends_chatgpt.png
 │
 ├── graphic/
-│   ├── Before_after.png
-│   ├── beginner_tags.png
-│   ├── image.png
-│   └── monthly_questions.png
+│   ├── figure_01_questions_per_month.png
+│   ├── figure_02_before_after_questions.png
+│   ├── figure_03_beginner_tags.png
+│   └── image.png
 │
 ├── R/
 │   └── did_chatgpt_kill_stackoverflow.R
