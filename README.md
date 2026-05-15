@@ -83,7 +83,7 @@ did-chatgpt-kill-stackoverflow/
 │   └── monthly_questions.png
 │
 ├── R/
-│   └── ChatGPT_Stackoverflow.R
+│   └── did_chatgpt_kill_stackoverflow.R
 │
 └── README.md
 ```
