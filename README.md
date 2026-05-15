@@ -58,7 +58,7 @@ According to Stack Overflow Developer Surveys, AI-assisted development adoption 
 # Repository Structure
 
 ```text
-did-chatgpt-kill-stackoverflow/
+did_chatgpt_kill_stackoverflow/
 │
 ├── data/
 │   └── raw/
@@ -84,6 +84,8 @@ did-chatgpt-kill-stackoverflow/
 │
 ├── R/
 │   └── did_chatgpt_kill_stackoverflow.R
+│
+├── did_chatgpt_kill_stackoverflow.pdf
 │
 └── README.md
 ```
