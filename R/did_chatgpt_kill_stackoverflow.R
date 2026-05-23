@@ -85,7 +85,7 @@ p_questions <- ggplot(questions, aes(x = date, y = questions)) +
   theme_alf_article()
 
 ggsave(
-  "../figures/raw/figure_01_questions_per_month.png",
+  "../figures/raw/figure_01_questions_per_month.svg",
   p_questions,
   width = 10,
   height = 5,
